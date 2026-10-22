@@ -1,4 +1,4 @@
-# EcoThreads 🌿 — Online Thrift Stor
+# EcoThreads 🌿 — Online Thrift Store
 
 Buy, sell and donate pre-loved clothing. Built with **React + TypeScript + Vite + Tailwind**, backed by a **Supabase (PostgreSQL)** database plus a separate, read-only **Backend Viewer** app.
 
